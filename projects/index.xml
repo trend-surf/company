@@ -1,23 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Works on My New Hugo Site</title><link>https://example.org/projects/</link><description>Recent content in Works on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Game</title><link>https://example.org/projects/game/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/projects/game/</guid><description>&lt;h3 id="3d-puzzle-game-for-smartphones-nancynancy" class="anchor-link">&lt;a href="#3d-puzzle-game-for-smartphones-nancynancy">3D Puzzle Game for Smartphones: NancyNancy&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>Released: 2019/09/12&lt;/strong>&lt;/p>
-&lt;p>We developed and globally released a 3D puzzle game for smartphones that can be enjoyed by both children and adults.&lt;/p>
-&lt;p>⚠️This service has been discontinued.&lt;/p>
-&lt;p>🍎 &lt;strong>iOS&lt;/strong> 🍎&lt;br>
-&lt;a href="https://apps.apple.com/pl/app/nancynancy/id1580485604">‎NancyNancy&lt;/a>&lt;/p>
-&lt;p>🤖 &lt;strong>Android&lt;/strong> 🤖&lt;br>
-&lt;a href="https://play.google.com/store/apps/details?id=com.trendsurf.nancynancy">NancyNancy - Apps on Google Play&lt;/a>&lt;/p>
-&lt;p>&lt;img src="images/screen_shot1.png" alt="Screenshot 1">&lt;/p>
-&lt;p>&lt;img src="images/screen_shot2.png" alt="Screenshot 2">&lt;/p></description></item><item><title>VR/MR</title><link>https://example.org/projects/vr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/projects/vr/</guid><description>&lt;p>We have extensive experience in developing multiple applications for VR devices, including Meta Quest 3.&lt;/p>
-&lt;ul>
-&lt;li>Educational application for pharmacy students - VR&lt;/li>
-&lt;li>Cell transplantation simulation application for universities - VR&lt;/li>
-&lt;li>Animal therapy application - MR&lt;/li>
-&lt;/ul>
-&lt;p>For further details, please contact us.&lt;/p></description></item><item><title>Web Development</title><link>https://example.org/projects/web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/projects/web/</guid><description>&lt;h3 id="senior-dog-memory-recording--community-service" class="anchor-link">&lt;a href="#senior-dog-memory-recording--community-service">Senior Dog Memory Recording &amp;amp; Community Service&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="images/inuck.png" alt="inuck">
-inuck(イヌック) is a service designed for dog owners and their senior dogs to record and cherish precious memories accumulated over the years, as well as to create new ones together.&lt;/p>
-&lt;p>⚠️ This service has been discontinued.&lt;/p>
-
-&lt;h3 id="food-delivery-management-system-client-work" class="anchor-link">&lt;a href="#food-delivery-management-system-client-work">Food Delivery Management System (Client Work)&lt;/a>&lt;/h3>
-&lt;p>We developed an integrated system to manage online orders, restaurant operations, driver instructions, and headquarters administration.&lt;/p>
-&lt;p>Our company handled the entire process, including requirements definition, backend system development, restaurant application (Android), and driver application (iOS/Android).&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on My New Hugo Site</title>
+    <link>https://example.org/projects/</link>
+    <description>Recent content in Works on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game</title>
+      <link>https://example.org/projects/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/game/</guid>
+      <description>&lt;h3 id=&#34;3d-puzzle-game-for-smartphones-nancynancy&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#3d-puzzle-game-for-smartphones-nancynancy&#34;&gt;3D Puzzle Game for Smartphones: NancyNancy&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Released: 2019/09/12&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We developed and globally released a 3D puzzle game for smartphones that can be enjoyed by both children and adults.&lt;/p&gt;&#xA;&lt;p&gt;⚠️This service has been discontinued.&lt;/p&gt;&#xA;&lt;p&gt;🍎 &lt;strong&gt;iOS&lt;/strong&gt; 🍎&lt;br&gt;&#xA;&lt;a href=&#34;https://apps.apple.com/pl/app/nancynancy/id1580485604&#34;&gt;‎NancyNancy&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🤖 &lt;strong&gt;Android&lt;/strong&gt; 🤖&lt;br&gt;&#xA;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.trendsurf.nancynancy&#34;&gt;NancyNancy - Apps on Google Play&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/screen_shot1.png&#34; alt=&#34;Screenshot 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/screen_shot2.png&#34; alt=&#34;Screenshot 2&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VR/MR</title>
+      <link>https://example.org/projects/vr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/vr/</guid>
+      <description>&lt;p&gt;We have extensive experience in developing multiple applications for VR devices, including Meta Quest 3.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Educational application for pharmacy students - VR&lt;/li&gt;&#xA;&lt;li&gt;Cell transplantation simulation application for universities - VR&lt;/li&gt;&#xA;&lt;li&gt;Animal therapy application - MR&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For further details, please contact us.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://example.org/projects/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/web/</guid>
+      <description>&lt;h3 id=&#34;senior-dog-memory-recording--community-service&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#senior-dog-memory-recording--community-service&#34;&gt;Senior Dog Memory Recording &amp;amp; Community Service&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/inuck.png&#34; alt=&#34;inuck&#34;&gt;&#xA;inuck(イヌック) is a service designed for dog owners and their senior dogs to record and cherish precious memories accumulated over the years, as well as to create new ones together.&lt;/p&gt;&#xA;&lt;p&gt;⚠️ This service has been discontinued.&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;food-delivery-management-system-client-work&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#food-delivery-management-system-client-work&#34;&gt;Food Delivery Management System (Client Work)&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;We developed an integrated system to manage online orders, restaurant operations, driver instructions, and headquarters administration.&lt;/p&gt;&#xA;&lt;p&gt;Our company handled the entire process, including requirements definition, backend system development, restaurant application (Android), and driver application (iOS/Android).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

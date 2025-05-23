@@ -1,97 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://example.org/</link><description>Recent content on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Game</title><link>https://example.org/projects/game/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/projects/game/</guid><description>&lt;h3 id="3d-puzzle-game-for-smartphones-nancynancy" class="anchor-link">&lt;a href="#3d-puzzle-game-for-smartphones-nancynancy">3D Puzzle Game for Smartphones: NancyNancy&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>Released: 2019/09/12&lt;/strong>&lt;/p>
-&lt;p>We developed and globally released a 3D puzzle game for smartphones that can be enjoyed by both children and adults.&lt;/p>
-&lt;p>⚠️This service has been discontinued.&lt;/p>
-&lt;p>🍎 &lt;strong>iOS&lt;/strong> 🍎&lt;br>
-&lt;a href="https://apps.apple.com/pl/app/nancynancy/id1580485604">‎NancyNancy&lt;/a>&lt;/p>
-&lt;p>🤖 &lt;strong>Android&lt;/strong> 🤖&lt;br>
-&lt;a href="https://play.google.com/store/apps/details?id=com.trendsurf.nancynancy">NancyNancy - Apps on Google Play&lt;/a>&lt;/p>
-&lt;p>&lt;img src="images/screen_shot1.png" alt="Screenshot 1">&lt;/p>
-&lt;p>&lt;img src="images/screen_shot2.png" alt="Screenshot 2">&lt;/p></description></item><item><title>VR/MR</title><link>https://example.org/projects/vr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/projects/vr/</guid><description>&lt;p>We have extensive experience in developing multiple applications for VR devices, including Meta Quest 3.&lt;/p>
-&lt;ul>
-&lt;li>Educational application for pharmacy students - VR&lt;/li>
-&lt;li>Cell transplantation simulation application for universities - VR&lt;/li>
-&lt;li>Animal therapy application - MR&lt;/li>
-&lt;/ul>
-&lt;p>For further details, please contact us.&lt;/p></description></item><item><title>Web Development</title><link>https://example.org/projects/web/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/projects/web/</guid><description>&lt;h3 id="senior-dog-memory-recording--community-service" class="anchor-link">&lt;a href="#senior-dog-memory-recording--community-service">Senior Dog Memory Recording &amp;amp; Community Service&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="images/inuck.png" alt="inuck">
-inuck(イヌック) is a service designed for dog owners and their senior dogs to record and cherish precious memories accumulated over the years, as well as to create new ones together.&lt;/p>
-&lt;p>⚠️ This service has been discontinued.&lt;/p>
-
-&lt;h3 id="food-delivery-management-system-client-work" class="anchor-link">&lt;a href="#food-delivery-management-system-client-work">Food Delivery Management System (Client Work)&lt;/a>&lt;/h3>
-&lt;p>We developed an integrated system to manage online orders, restaurant operations, driver instructions, and headquarters administration.&lt;/p>
-&lt;p>Our company handled the entire process, including requirements definition, backend system development, restaurant application (Android), and driver application (iOS/Android).&lt;/p></description></item><item><title>Company Information</title><link>https://example.org/company-info/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/company-info/</guid><description>&lt;p>&lt;strong>Establishment Date&lt;/strong>&lt;/p>
-&lt;p>2021/07/01&lt;/p>
-&lt;p>&lt;strong>Representative Director&lt;/strong>&lt;/p>
-&lt;p>Takuma Hagiwara&lt;/p>
-&lt;p>&lt;strong>Business Activities&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>Development and distribution of 3D and 2D games for smartphones&lt;/li>
-&lt;li>Website production and operation&lt;/li>
-&lt;li>Development and operation of large-scale CtoC matching services&lt;/li>
-&lt;li>Consulting for business improvement systems&lt;/li>
-&lt;li>Product management operations&lt;/li>
-&lt;/ol></description></item><item><title>Privacy Policy</title><link>https://example.org/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/privacy-policy/</guid><description>&lt;p>株式会社トレンドサーフ（以下、「当社」）が提供するスマートフォン用アプリ（以下、「本アプリ」）における、ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシーを定めます。&lt;/p>
-
-&lt;h3 id="1-個人情報" class="anchor-link">&lt;a href="#1-%e5%80%8b%e4%ba%ba%e6%83%85%e5%a0%b1">1. 個人情報&lt;/a>&lt;/h3>
-
-&lt;h4 id="端末情報" class="anchor-link">&lt;a href="#%e7%ab%af%e6%9c%ab%e6%83%85%e5%a0%b1">端末情報&lt;/a>&lt;/h4>
-&lt;p>当社はお客様が使用される端末固有の情報（モデル、オペレーティングシステム、通信キャリア、IPアドレス、その他端末固有の個体識別情報等）を取得することがあります。&lt;/p>
-
-&lt;h4 id="提供情報" class="anchor-link">&lt;a href="#%e6%8f%90%e4%be%9b%e6%83%85%e5%a0%b1">提供情報&lt;/a>&lt;/h4>
-&lt;p>当社はお客様が本アプリを利用する際にお客様が提供する情報（居住国、使用言語、ユーザー名、センサーデータ等）を取得することがあります。&lt;/p>
-
-&lt;h4 id="行動履歴情報" class="anchor-link">&lt;a href="#%e8%a1%8c%e5%8b%95%e5%b1%a5%e6%ad%b4%e6%83%85%e5%a0%b1">行動履歴情報&lt;/a>&lt;/h4>
-&lt;p>当社は本アプリの利用に伴うお客様の行動履歴（利用日時、アプリ内での操作履歴の情報、購入履歴等）を取得することがあります。&lt;/p>
-
-&lt;h3 id="2-個人情報の取得方法" class="anchor-link">&lt;a href="#2-%e5%80%8b%e4%ba%ba%e6%83%85%e5%a0%b1%e3%81%ae%e5%8f%96%e5%be%97%e6%96%b9%e6%b3%95">2. 個人情報の取得方法&lt;/a>&lt;/h3>
-
-&lt;h4 id="自動取得" class="anchor-link">&lt;a href="#%e8%87%aa%e5%8b%95%e5%8f%96%e5%be%97">自動取得&lt;/a>&lt;/h4>
-&lt;p>本アプリは、広告配信のためにGoogle 広告、Google AdMob、利用状況解析のためにUnity Analyticsを使用します。&lt;/p>
-
-&lt;h4 id="提供情報-1" class="anchor-link">&lt;a href="#%e6%8f%90%e4%be%9b%e6%83%85%e5%a0%b1-1">提供情報&lt;/a>&lt;/h4>
-&lt;p>本アプリにおいてお客様が入力する情報（年月日・メールアドレス・お問い合わせ内容・ID・キャラクター名等）&lt;/p>
-
-&lt;h3 id="3-個人情報の利用目的" class="anchor-link">&lt;a href="#3-%e5%80%8b%e4%ba%ba%e6%83%85%e5%a0%b1%e3%81%ae%e5%88%a9%e7%94%a8%e7%9b%ae%e7%9a%84">3. 個人情報の利用目的&lt;/a>&lt;/h3>
-&lt;p>・　本アプリのサービス及び関連するサービスをご提供するため&lt;/p>
-&lt;p>・　当社または第三者の業務および製品に関する情報提供のため&lt;/p>
-&lt;p>・　本アプリに関する当社の規約、ポリシー等に違反する行為に対する対応のため&lt;/p>
-&lt;p>・　本アプリに関するご案内、お問い合せ等への対応のため&lt;/p>
-&lt;p>・　本アプリに関連する規約等の変更などを通知するため&lt;/p>
-&lt;p>・　お客様の興味、関心に合った広告を表示するため&lt;/p>
-&lt;p>・　広告効果の測定、分析のため&lt;/p>
-&lt;p>・　市場分析・マーケティングのため&lt;/p>
-&lt;p>・　当社のサービス改善、新サービスの開発等に役立てるため&lt;/p>
-&lt;p>・　当社のサービスに関連して、個人を識別できない形式に加工した統計データを作成するため&lt;/p>
-&lt;p>・　上記の利用目的に付随する利用目的のため&lt;/p>
-
-&lt;h3 id="4-通知公表又は同意取得の方法利用者関与の方法" class="anchor-link">&lt;a href="#4-%e9%80%9a%e7%9f%a5%e5%85%ac%e8%a1%a8%e5%8f%88%e3%81%af%e5%90%8c%e6%84%8f%e5%8f%96%e5%be%97%e3%81%ae%e6%96%b9%e6%b3%95%e5%88%a9%e7%94%a8%e8%80%85%e9%96%a2%e4%b8%8e%e3%81%ae%e6%96%b9%e6%b3%95">4. 通知・公表又は同意取得の方法、利用者関与の方法&lt;/a>&lt;/h3>
-&lt;p>本アプリによる利用者情報の送信は、本アプリのアンインストールを行うことによってのみこれを停止できます。&lt;/p>
-
-&lt;h3 id="5-外部送信第三者提供情報収集モジュールの有無" class="anchor-link">&lt;a href="#5-%e5%a4%96%e9%83%a8%e9%80%81%e4%bf%a1%e7%ac%ac%e4%b8%89%e8%80%85%e6%8f%90%e4%be%9b%e6%83%85%e5%a0%b1%e5%8f%8e%e9%9b%86%e3%83%a2%e3%82%b8%e3%83%a5%e3%83%bc%e3%83%ab%e3%81%ae%e6%9c%89%e7%84%a1">5. 外部送信・第三者提供・情報収集モジュールの有無&lt;/a>&lt;/h3>
-&lt;p>本アプリでは利用者情報を解析するため、以下の情報収集モジュールを組み込んでいる場合があります。&lt;/p>
-&lt;p>これに伴い、我々は、以下の情報収集モジュールの提供者への利用者情報の提供を行います。これらの情報収集モジュールは、Cookie等を利用し、個人を特定する情報を含むことなく利用者情報を収集し、収集された情報は、&lt;/p>
-&lt;p>情報収集モジュールの提供者のプライバシーポリシーその他の規定に基づき管理されます。&lt;/p>
-&lt;ul>
-&lt;li>Unity Analytics (提供者：Unity Technologies)
-&lt;ul>
-&lt;li>&lt;a href="https://unity3d.com/jp/legal/privacy-policy">https://unity3d.com/jp/legal/privacy-policy&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Google AdMob (提供者：Google Inc.)
-&lt;ul>
-&lt;li>&lt;a href="http://www.google.com/intl/ja/policies/technologies/ads/">http://www.google.com/intl/ja/policies/technologies/ads/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-
-&lt;h3 id="6お問い合わせ窓口" class="anchor-link">&lt;a href="#6%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b%e7%aa%93%e5%8f%a3">6.お問い合わせ窓口&lt;/a>&lt;/h3>
-&lt;p>メールでのお問い合わせを受け付けています。&lt;/p>
-&lt;p>&lt;a href="mailto:support@trend-surf.com">support@trend-surf.com&lt;/a>&lt;/p>
-
-&lt;h3 id="7-プライバシーポリシーの改訂" class="anchor-link">&lt;a href="#7-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%90%e3%82%b7%e3%83%bc%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc%e3%81%ae%e6%94%b9%e8%a8%82">7. プライバシーポリシーの改訂&lt;/a>&lt;/h3>
-&lt;p>プライバシーポリシーの内容は予告なく変更される場合があります。変更が生じた場合はサイト上に掲載いたしますので、&lt;/p>
-&lt;p>随時最新のプライバシーポリシーをご確認ください。&lt;/p>
-&lt;p>2021年8月10日制定&lt;/p>
-&lt;hr>
-&lt;p>Trend Surf Inc. (hereinafter referred to as &amp;ldquo;the Company&amp;rdquo;) establishes the following privacy policy regarding the handling of users&amp;rsquo; personal information in the smartphone application (hereinafter referred to as &amp;ldquo;the App&amp;rdquo;) provided by the Company.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game</title>
+      <link>https://example.org/projects/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/game/</guid>
+      <description>&lt;h3 id=&#34;3d-puzzle-game-for-smartphones-nancynancy&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#3d-puzzle-game-for-smartphones-nancynancy&#34;&gt;3D Puzzle Game for Smartphones: NancyNancy&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Released: 2019/09/12&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We developed and globally released a 3D puzzle game for smartphones that can be enjoyed by both children and adults.&lt;/p&gt;&#xA;&lt;p&gt;⚠️This service has been discontinued.&lt;/p&gt;&#xA;&lt;p&gt;🍎 &lt;strong&gt;iOS&lt;/strong&gt; 🍎&lt;br&gt;&#xA;&lt;a href=&#34;https://apps.apple.com/pl/app/nancynancy/id1580485604&#34;&gt;‎NancyNancy&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;🤖 &lt;strong&gt;Android&lt;/strong&gt; 🤖&lt;br&gt;&#xA;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.trendsurf.nancynancy&#34;&gt;NancyNancy - Apps on Google Play&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/screen_shot1.png&#34; alt=&#34;Screenshot 1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/screen_shot2.png&#34; alt=&#34;Screenshot 2&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VR/MR</title>
+      <link>https://example.org/projects/vr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/vr/</guid>
+      <description>&lt;p&gt;We have extensive experience in developing multiple applications for VR devices, including Meta Quest 3.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Educational application for pharmacy students - VR&lt;/li&gt;&#xA;&lt;li&gt;Cell transplantation simulation application for universities - VR&lt;/li&gt;&#xA;&lt;li&gt;Animal therapy application - MR&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For further details, please contact us.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://example.org/projects/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/projects/web/</guid>
+      <description>&lt;h3 id=&#34;senior-dog-memory-recording--community-service&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#senior-dog-memory-recording--community-service&#34;&gt;Senior Dog Memory Recording &amp;amp; Community Service&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/inuck.png&#34; alt=&#34;inuck&#34;&gt;&#xA;inuck(イヌック) is a service designed for dog owners and their senior dogs to record and cherish precious memories accumulated over the years, as well as to create new ones together.&lt;/p&gt;&#xA;&lt;p&gt;⚠️ This service has been discontinued.&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;food-delivery-management-system-client-work&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#food-delivery-management-system-client-work&#34;&gt;Food Delivery Management System (Client Work)&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;We developed an integrated system to manage online orders, restaurant operations, driver instructions, and headquarters administration.&lt;/p&gt;&#xA;&lt;p&gt;Our company handled the entire process, including requirements definition, backend system development, restaurant application (Android), and driver application (iOS/Android).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Company Information</title>
+      <link>https://example.org/company-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/company-info/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Establishment Date&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;2021/07/01&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Representative Director&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Takuma Hagiwara&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Business Activities&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Development and distribution of 3D and 2D games for smartphones&lt;/li&gt;&#xA;&lt;li&gt;Website production and operation&lt;/li&gt;&#xA;&lt;li&gt;Development and operation of large-scale CtoC matching services&lt;/li&gt;&#xA;&lt;li&gt;Consulting for business improvement systems&lt;/li&gt;&#xA;&lt;li&gt;Product management operations&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://example.org/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/privacy-policy/</guid>
+      <description>&lt;p&gt;株式会社トレンドサーフ（以下、「当社」）が提供するスマートフォン用アプリ（以下、「本アプリ」）における、ユーザーの個人情報の取扱いについて，以下のとおりプライバシーポリシーを定めます。&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;1-個人情報&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#1-%e5%80%8b%e4%ba%ba%e6%83%85%e5%a0%b1&#34;&gt;1. 個人情報&lt;/a&gt;&lt;/h3&gt;&#xA;&#xA;&lt;h4 id=&#34;端末情報&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#%e7%ab%af%e6%9c%ab%e6%83%85%e5%a0%b1&#34;&gt;端末情報&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;当社はお客様が使用される端末固有の情報（モデル、オペレーティングシステム、通信キャリア、IPアドレス、その他端末固有の個体識別情報等）を取得することがあります。&lt;/p&gt;&#xA;&#xA;&lt;h4 id=&#34;提供情報&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#%e6%8f%90%e4%be%9b%e6%83%85%e5%a0%b1&#34;&gt;提供情報&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;当社はお客様が本アプリを利用する際にお客様が提供する情報（居住国、使用言語、ユーザー名、センサーデータ等）を取得することがあります。&lt;/p&gt;&#xA;&#xA;&lt;h4 id=&#34;行動履歴情報&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#%e8%a1%8c%e5%8b%95%e5%b1%a5%e6%ad%b4%e6%83%85%e5%a0%b1&#34;&gt;行動履歴情報&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;当社は本アプリの利用に伴うお客様の行動履歴（利用日時、アプリ内での操作履歴の情報、購入履歴等）を取得することがあります。&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;2-個人情報の取得方法&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#2-%e5%80%8b%e4%ba%ba%e6%83%85%e5%a0%b1%e3%81%ae%e5%8f%96%e5%be%97%e6%96%b9%e6%b3%95&#34;&gt;2. 個人情報の取得方法&lt;/a&gt;&lt;/h3&gt;&#xA;&#xA;&lt;h4 id=&#34;自動取得&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#%e8%87%aa%e5%8b%95%e5%8f%96%e5%be%97&#34;&gt;自動取得&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;本アプリは、広告配信のためにGoogle 広告、Google AdMob、利用状況解析のためにUnity Analyticsを使用します。&lt;/p&gt;&#xA;&#xA;&lt;h4 id=&#34;提供情報-1&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#%e6%8f%90%e4%be%9b%e6%83%85%e5%a0%b1-1&#34;&gt;提供情報&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;本アプリにおいてお客様が入力する情報（年月日・メールアドレス・お問い合わせ内容・ID・キャラクター名等）&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;3-個人情報の利用目的&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#3-%e5%80%8b%e4%ba%ba%e6%83%85%e5%a0%b1%e3%81%ae%e5%88%a9%e7%94%a8%e7%9b%ae%e7%9a%84&#34;&gt;3. 個人情報の利用目的&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;・　本アプリのサービス及び関連するサービスをご提供するため&lt;/p&gt;&#xA;&lt;p&gt;・　当社または第三者の業務および製品に関する情報提供のため&lt;/p&gt;&#xA;&lt;p&gt;・　本アプリに関する当社の規約、ポリシー等に違反する行為に対する対応のため&lt;/p&gt;&#xA;&lt;p&gt;・　本アプリに関するご案内、お問い合せ等への対応のため&lt;/p&gt;&#xA;&lt;p&gt;・　本アプリに関連する規約等の変更などを通知するため&lt;/p&gt;&#xA;&lt;p&gt;・　お客様の興味、関心に合った広告を表示するため&lt;/p&gt;&#xA;&lt;p&gt;・　広告効果の測定、分析のため&lt;/p&gt;&#xA;&lt;p&gt;・　市場分析・マーケティングのため&lt;/p&gt;&#xA;&lt;p&gt;・　当社のサービス改善、新サービスの開発等に役立てるため&lt;/p&gt;&#xA;&lt;p&gt;・　当社のサービスに関連して、個人を識別できない形式に加工した統計データを作成するため&lt;/p&gt;&#xA;&lt;p&gt;・　上記の利用目的に付随する利用目的のため&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;4-通知公表又は同意取得の方法利用者関与の方法&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#4-%e9%80%9a%e7%9f%a5%e5%85%ac%e8%a1%a8%e5%8f%88%e3%81%af%e5%90%8c%e6%84%8f%e5%8f%96%e5%be%97%e3%81%ae%e6%96%b9%e6%b3%95%e5%88%a9%e7%94%a8%e8%80%85%e9%96%a2%e4%b8%8e%e3%81%ae%e6%96%b9%e6%b3%95&#34;&gt;4. 通知・公表又は同意取得の方法、利用者関与の方法&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;本アプリによる利用者情報の送信は、本アプリのアンインストールを行うことによってのみこれを停止できます。&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;5-外部送信第三者提供情報収集モジュールの有無&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#5-%e5%a4%96%e9%83%a8%e9%80%81%e4%bf%a1%e7%ac%ac%e4%b8%89%e8%80%85%e6%8f%90%e4%be%9b%e6%83%85%e5%a0%b1%e5%8f%8e%e9%9b%86%e3%83%a2%e3%82%b8%e3%83%a5%e3%83%bc%e3%83%ab%e3%81%ae%e6%9c%89%e7%84%a1&#34;&gt;5. 外部送信・第三者提供・情報収集モジュールの有無&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;本アプリでは利用者情報を解析するため、以下の情報収集モジュールを組み込んでいる場合があります。&lt;/p&gt;&#xA;&lt;p&gt;これに伴い、我々は、以下の情報収集モジュールの提供者への利用者情報の提供を行います。これらの情報収集モジュールは、Cookie等を利用し、個人を特定する情報を含むことなく利用者情報を収集し、収集された情報は、&lt;/p&gt;&#xA;&lt;p&gt;情報収集モジュールの提供者のプライバシーポリシーその他の規定に基づき管理されます。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unity Analytics (提供者：Unity Technologies)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://unity3d.com/jp/legal/privacy-policy&#34;&gt;https://unity3d.com/jp/legal/privacy-policy&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Google AdMob (提供者：Google Inc.)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.google.com/intl/ja/policies/technologies/ads/&#34;&gt;http://www.google.com/intl/ja/policies/technologies/ads/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 id=&#34;6お問い合わせ窓口&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#6%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b%e7%aa%93%e5%8f%a3&#34;&gt;6.お問い合わせ窓口&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;メールでのお問い合わせを受け付けています。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:support@trend-surf.com&#34;&gt;support@trend-surf.com&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&lt;h3 id=&#34;7-プライバシーポリシーの改訂&#34; class=&#34;anchor-link&#34;&gt;&lt;a href=&#34;#7-%e3%83%97%e3%83%a9%e3%82%a4%e3%83%90%e3%82%b7%e3%83%bc%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc%e3%81%ae%e6%94%b9%e8%a8%82&#34;&gt;7. プライバシーポリシーの改訂&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;プライバシーポリシーの内容は予告なく変更される場合があります。変更が生じた場合はサイト上に掲載いたしますので、&lt;/p&gt;&#xA;&lt;p&gt;随時最新のプライバシーポリシーをご確認ください。&lt;/p&gt;&#xA;&lt;p&gt;2021年8月10日制定&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Trend Surf Inc. (hereinafter referred to as &amp;ldquo;the Company&amp;rdquo;) establishes the following privacy policy regarding the handling of users&amp;rsquo; personal information in the smartphone application (hereinafter referred to as &amp;ldquo;the App&amp;rdquo;) provided by the Company.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
