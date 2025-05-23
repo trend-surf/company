@@ -24,13 +24,15 @@ jobs:
           node-version: '20'
 
       # ↓ npm install（package.jsonがなければ作成し、postcssとautoprefixerを入れる）
-      - name: Install theme dependencies
+      - name: Install dependencies
         run: |
-          cd themes/introduction
-          npm install
+          if [ ! -f package.json ]; then
+            npm init -y
+          fi
+          npm install postcss postcss-cli autoprefixer
 
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Create .nojekyll
         run: echo > public/.nojekyll
