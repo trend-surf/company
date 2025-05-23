@@ -1,4 +1,4 @@
-baseURL = 'https://trend-surf.github.io/company/'
+baseURL = 'https://trend-surf.com'
 languageCode = 'ja-jp'
 title = 'TrendSurf'
 theme = 'introduction'
