@@ -10,15 +10,33 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: true
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
+
+      # ↓ Node.jsをセットアップ（PostCSSのため）
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # ↓ npm install（package.jsonがなければ作成し、postcssとautoprefixerを入れる）
+      - name: Install dependencies
+        run: |
+          if [ ! -f package.json ]; then
+            npm init -y
+          fi
+          npm install postcss postcss-cli autoprefixer
+
       - name: Build
         run: hugo --minify
+
       - name: Create .nojekyll
         run: echo > public/.nojekyll
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
