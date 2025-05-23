@@ -24,12 +24,10 @@ jobs:
           node-version: '20'
 
       # ↓ npm install（package.jsonがなければ作成し、postcssとautoprefixerを入れる）
-      - name: Install dependencies
+      - name: Install theme dependencies
         run: |
-          if [ ! -f package.json ]; then
-            npm init -y
-          fi
-          npm install postcss postcss-cli autoprefixer
+          cd themes/introduction
+          npm install
 
       - name: Build
         run: hugo --minify
