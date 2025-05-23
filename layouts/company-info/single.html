@@ -1,0 +1,13 @@
+{{ define "title" }}
+{{ with .Site.GetPage "/company-info" }}
+<h1 class="title is-1">{{ .Title | markdownify }}</h1>
+{{ end }}
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+</div>
+<div class="container markdown top-pad">
+    {{ .Content }}
+</div>
+{{ end }}
