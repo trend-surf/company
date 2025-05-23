@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://trend-surf.github.io/company/'
+languageCode = 'ja-jp'
+title = 'TrendSurf'
 theme = 'introduction'
 
 [params]
